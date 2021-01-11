@@ -3,7 +3,7 @@
 
 
 
-*..* 
+*Created an Chat Server and data server by using the Socket Programming by creating the both server and Client Machine as Sender and Receiver Both ( By the UDP Protocol)* 
 
 
 ## PreRequisite : Hardware :

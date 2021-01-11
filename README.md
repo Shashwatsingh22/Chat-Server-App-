@@ -1,5 +1,4 @@
-# Chat-Server-App-
-# LinuxGun - Linux Based Tool
+# Chat-Server-App
 ![](https://img.shields.io/github/license/Shashwatsingh22/Chat-Server-App-)
 
 
